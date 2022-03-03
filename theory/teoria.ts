@@ -36,3 +36,31 @@ ___________________
   NULL E UNDEFINED
   let teste: null;
   console.log(name) >> undefined; */
+
+  /*
+type Permission = 'Admin' | 'Mod';
+type NoPermission = 'User' | 'Guest';
+
+let Login: Permission;
+  Login = 'Admin';
+
+  Login = 'User';
+*/
+
+
+//Interface serve para documentar ou validar o código, facilitando o desenvolvimento 
+  /*interface User{
+    id: number,
+    name: string,
+    email: string,
+    age: number,
+    password: string
+  }
+
+  let Client:User = {
+    id: 10,
+    name: 'Gustavo',
+    email: 'gstvoaugusto@gmail.com',
+    age: 19,
+    password: '1345'
+  }*/
